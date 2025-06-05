@@ -1,4 +1,4 @@
-<img src="/img/Apresentacao.png" alt="Apresentação do Perfil">
+<img src="/img/Github.png" alt="Apresentação do Perfil">
 
 
 ### Olá devs e afins! 👋
