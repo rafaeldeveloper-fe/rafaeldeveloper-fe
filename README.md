@@ -12,9 +12,9 @@ Eu me chamo Rafael Matheus de Freitas, tenho 32 anos e moro atualmente em Curiti
 
 ## Você pode me encontrar aqui 🌍
 
-<a href="https://www.instagram.com/rafaeldeveloper_/" align="center"><img src="img/Insta.svg">/rafaeldeveloper_/</a> 
-<a href="https://www.linkedin.com/in/rafaeldeveloperfe/"><img src="img/Linkedin.svg">/rafaeldeveloperfe/</a> 
-<a href="https://github.com/rafaeldeveloper-fe/"><img src="img/Github.svg">/rafaeldeveloper-fe/</a>
+<a href="https://www.instagram.com/rafaeldeveloper_/" align="center"><img src="img/Insta.svg"></a><br>
+<a href="https://www.linkedin.com/in/rafaeldeveloperfe/"><img src="img/Linkedin.svg"></a><br>
+<a href="https://github.com/rafaeldeveloper-fe/"><img src="img/Github.svg"></a>
 
 ## Github Stats
 
