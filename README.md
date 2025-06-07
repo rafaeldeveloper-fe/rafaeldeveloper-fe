@@ -2,7 +2,7 @@
 
 
 ### Olá devs e afins! 👋
-Eu me chamo Rafael Matheus de Freitas, tenho 30 anos e moro atualmente em Curitiba, capital do Paraná.
+Eu me chamo Rafael Matheus de Freitas, tenho 32 anos e moro atualmente em Curitiba, capital do Paraná.
 
 * 👀 Tenho um grande interesse por todo o universo Front-end
 * 🌱 Estou atualmente cursando Análise e Desenvolvimento de Sistema pela Uninter
@@ -12,9 +12,9 @@ Eu me chamo Rafael Matheus de Freitas, tenho 30 anos e moro atualmente em Curiti
 
 ## Você pode me encontrar aqui 🌍
 
-<a href="https://www.instagram.com/rafaeldeveloper_/" align="center"><img src="img/Insta.svg"></a> 
-<a href="https://www.linkedin.com/in/rafaeldeveloperfe/"><img src="img/Linkedin.svg"></a> 
-<a href="https://github.com/rafaeldeveloper-fe/"><img src="img/Github.svg"></a>
+<a href="https://www.instagram.com/rafaeldeveloper_/" align="center"><img src="img/Insta.svg">/rafaeldeveloper_/</a> 
+<a href="https://www.linkedin.com/in/rafaeldeveloperfe/"><img src="img/Linkedin.svg">/rafaeldeveloperfe/</a> 
+<a href="https://github.com/rafaeldeveloper-fe/"><img src="img/Github.svg">/rafaeldeveloper-fe/</a>
 
 ## Github Stats
 
